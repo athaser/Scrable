@@ -1,0 +1,26 @@
+body {
+  background-color: #2f3439;
+}
+
+.radialtimer {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 50%;
+  margin: -100px 0 0 -100px;
+  top:155;
+  left:220px;
+  
+}
+.radialtimer .n {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: black;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 100px;
+  font-family: "Georgia";
+  font-size: 60px;
+  color: red;
+}
